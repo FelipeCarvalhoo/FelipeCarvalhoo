@@ -24,7 +24,7 @@
 </tr>
 </table>
 <hr>
-### Formas de contato:
+<h3> Formas de contato:</h3>
 <ul >
 <li> Email: fcarvalhoosilva@gmail.com</li>
 <li> instagram: carvalho_s_felipe</li>
