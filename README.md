@@ -14,13 +14,13 @@
 <td>CSS</td>
 <td>JavaScript</td>
 <td>Git</td>
-<td style="display:flex; flex:1;">TypeScript</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td>5</td>
 <td>3</td>
 <td>ECMAScript 2018</td>
-<td>2.23.0</td>
+<td style="display:flex; flex:1;">2.23.0</td>
 </tr>
 </table>
 <hr>
