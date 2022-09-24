@@ -15,12 +15,15 @@
 <td>JavaScript</td>
 <td>Git</td>
 <td>TypeScript</td>
+  <td>React</td>
 </tr>
 <tr>
 <td>5</td>
 <td>3</td>
 <td>ECMAScript 2018</td>
 <td>2.23.0</td>
+  <td>Adquirindo experiencia</td>
+  <td>Adquirindo experiencia</td>
 </tr>
 </table>
 <hr>
