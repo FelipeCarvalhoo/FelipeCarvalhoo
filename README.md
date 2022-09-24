@@ -1,8 +1,10 @@
 # Olá me chamo Felipe Carvalho
 <hr>
-><p>Tenho 24 anos</p>
->
-<table>⚠️ Habilidades:
++ <p>Tenho 24 anos</p>
++ Moro em Palmas - TO
++ ⚠️ Estudo Front:
+
+<table>
 <tr>
 <td>HTML</td>
 <td>CSS</td>
