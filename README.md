@@ -14,6 +14,7 @@
 <td>CSS</td>
 <td>JavaScript</td>
 <td>Git</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td>5</td>
