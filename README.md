@@ -20,7 +20,7 @@
 <td>5</td>
 <td>3</td>
 <td>ECMAScript 2018</td>
-<td style="display:flex; flex:1;">2.23.0</td>
+<td>2.23.0</td>
 </tr>
 </table>
 <hr>
