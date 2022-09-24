@@ -1,8 +1,12 @@
 # Olá me chamo Felipe Carvalho
 <hr>
-+ <p>Tenho 24 anos</p>
-+ Moro em Palmas - TO
-+ ⚠️ Estudo Front:
+<ul>
+  <li><p>Tenho 24 anos</p></li>
+  <li>Moro em Palmas - TO</li>
+  </ul>
+  -
+  -
+⚠️ Estudo Front:
 
 <table>
 <tr>
