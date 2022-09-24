@@ -21,7 +21,6 @@
 <td>3</td>
 <td>ECMAScript 2018</td>
 <td>2.23.0</td>
-  <td>| | | </td>
 </tr>
 </table>
 <hr>
