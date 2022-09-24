@@ -31,6 +31,7 @@
   <td>Primeiro contato</td>
   <td>Primeiro contato</td>
   <td>Primeiro contato</td>
+  <td>Primeiro contato</td>
   </tr>
   <tr>
    <td>2020</td>
