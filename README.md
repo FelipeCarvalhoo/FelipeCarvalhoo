@@ -4,9 +4,7 @@
   <li><p>Tenho 24 anos</p></li>
   <li>Moro em Palmas - TO</li>
   </ul>
-  -
-  -
-⚠️ Estudo Front:
+⚠️ <h1>Sou Desenvolvedor Front - end</h1>
 
 <table>
 <tr>
