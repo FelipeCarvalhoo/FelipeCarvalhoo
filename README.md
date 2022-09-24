@@ -1,10 +1,10 @@
 # Olá, meu nome é Felipe Carvalho
 <hr>
+<h3>Sou Desenvolvedor Front - end</h3>
 <ul>
   <li><p>Tenho 24 anos</p></li>
   <li>Moro em Palmas - TO</li>
   </ul>
-<h1>Sou Desenvolvedor Front - end</h1>
 <hr>
 <h2>Tenho habilidades em:</h2>
 
