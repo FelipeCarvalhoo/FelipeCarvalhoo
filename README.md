@@ -22,8 +22,8 @@
 <td>3</td>
 <td>ECMAScript 2018</td>
 <td>2.23.0</td>
-  <td>Adquirindo experiencia</td>
-  <td>Adquirindo experiencia</td>
+  <td>Auxílio</td>
+  <td>Auxílio</td>
 </tr>
   <tr>
    <td>Primeiro contato</td>
@@ -37,7 +37,8 @@
   <td>2020</td>
   <td>2021</td>
   <td>2022</td>
-  <td>2022</td></tr>
+  <td>2022</td>
+   <td>2022</td></tr>
 </table>
 <hr>
 <h3> Formas de contato:</h3>
