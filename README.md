@@ -28,4 +28,7 @@
 <ul >
 <li> Email: fcarvalhoosilva@gmail.com</li>
 <li> instagram: carvalho_s_felipe</li>
+  <li>Whatsapp: 63992424385</li>
+  </ul>
+ 
 
