@@ -33,6 +33,8 @@
   <td>Primeiro contato</td>
   <td>Primeiro contato</td>
   </tr>
+  <br>
+  <br>
   <tr>
    <td>2020</td>
   <td>2020</td>
