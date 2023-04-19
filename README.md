@@ -1,4 +1,4 @@
-# Olá, meu nome é Felipe Carvalho
+# Olá, sou Felipe
 <hr>
 <h3>Sou Desenvolvedor Front - end</h3>
 <ul>
