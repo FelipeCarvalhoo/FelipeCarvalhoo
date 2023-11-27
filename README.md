@@ -2,7 +2,6 @@
 <hr>
 <h3>Sou Desenvolvedor Front - end</h3>
 <ul>
-  <li><p>Tenho 24 anos</p></li>
   <li>Moro em Palmas - TO</li>
   </ul>
 <hr>
